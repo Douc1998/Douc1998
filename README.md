@@ -8,7 +8,7 @@
 - 🔭 &nbsp; Name: Dou Chen
 - 🎓 &nbsp; I am currently studying at the School of Remote Sensing and Information Engineering, Wuhan University, and I am expected to graduate in 2024.
 - 💼 &nbsp; I am a frontend development engineer with a passion for React.
-- ✍️ &nbsp; Apart from coding, I enjoy playing badminton and basketball during my free time.
+- 🏃 &nbsp; Apart from coding, I enjoy playing badminton and basketball during my free time.
 - 📮 &nbsp; You can reach me at whu_dc@whu.edu.cn for any inquiries.
 
 <h3>🛠 Tech Stack</h3>
